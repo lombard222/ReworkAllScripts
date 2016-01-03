@@ -22,9 +22,9 @@ namespace EmberSpirit
 		private static bool oneULT;
 		private static Font txt;
 		private static Font not;
-		private static Key KeyCombo = Key.D;
-		private const Key TogleQW = Key.W;
-		private const Key OneUlt = Key.F;
+		private static Key KeyCombo = Key.R;
+		private const Key TogleQW = Key.F;
+		private const Key OneUlt = Key.T;
 		private static bool loaded;
 		static void Main(string[] args)
 		{
